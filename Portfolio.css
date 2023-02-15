@@ -1,0 +1,130 @@
+header nav {
+    display: flex;
+    justify-content: space-between;
+    font-size:16px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-right:90px;
+    align-items: center;
+}
+
+header{
+    margin-top: 20px;
+}
+
+
+ul{
+    top: 0px;
+    display: flex;
+    gap: 70px;
+    position: relative;
+}
+
+li{
+    list-style-type: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+
+a:hover{
+    color: rgba(252, 165, 35, 0.774);
+    transition: 0.5s;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.ul1{
+    top: 0px;
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+}
+
+
+i{
+    font-size: 25px;
+}
+
+
+body{
+    background-color: black;
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+align-items: center;
+justify-content: center;
+font-size: 42px;
+letter-spacing: 3px;
+font-family: 'Roboto Serif', serif;
+}
+
+
+img{
+    width: 370px;
+    height: 500px;
+    position: absolute;
+    left: 100px;
+   
+}
+
+
+.img1{
+    width: 370px;
+    height: 500px;
+    position: absolute;
+    left: 500px;
+}
+
+
+.img2{
+    width: 370px;
+    height: 500px;
+    position: absolute;
+    left: 900px;
+}
+
+
+p{
+    color: white;
+    margin-top:650px;
+    margin-left:100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h2{
+    position: absolute;
+   color: white; 
+   font-size: 26px;
+   font-family: 'Roboto', sans-serif;
+   left: 235px;
+   top: 450px;
+}
+
+h3{
+    position: absolute;
+    color: white; 
+    font-size: 26px;
+    font-family: 'Roboto', sans-serif;
+    left: 235px;
+    top: 450px;
+    left: 650px;  
+}
+
+h4{
+    position: absolute;
+    color: white; 
+    font-size: 26px;
+    font-family: 'Roboto', sans-serif;
+    left: 235px;
+    top: 450px;
+    left: 1040px;  
+}

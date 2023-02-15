@@ -1,0 +1,157 @@
+header nav {
+    display: flex;
+    justify-content: space-between;
+    font-size:16px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-right:90px;
+    align-items: center;
+}
+
+header{
+    margin-top: 20px;
+}
+
+
+ul{
+    top: 0px;
+    display: flex;
+    gap: 70px;
+    position: relative;
+}
+
+li{
+    list-style-type: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+
+a:hover{
+    color: rgba(252, 165, 35, 0.774);
+    transition: 0.5s;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.ul1{
+    top: 0px;
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+}
+
+
+i{
+    font-size: 25px;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    font-family: 'Roboto Serif', serif;
+    left: 150px;
+    letter-spacing: 5px;
+}
+
+img{
+position: absolute;
+width: 370px;
+height: 250px;
+left: 65px;
+top: 250px;
+}
+
+
+
+.img1{
+position: absolute;
+width: 370px;
+height: 290px;
+left: 470px;
+top: 250px;
+}
+
+
+.img2{
+    position: absolute;
+    width: 370px;
+    height: 250px;
+left: 875px;
+top: 250px;
+}
+
+
+p{
+    color: white;
+    font-family: 'Roboto Serif', serif;
+    margin-top: 600px;
+    margin-left: 100px;
+}
+
+
+
+h2{
+    position: absolute;
+    color: white;
+    font-family: 'Roboto Serif', serif;
+    font-size: 25px;
+    top: 350px;
+    left: 130px;
+color: rgba(0, 0, 0, 0.726);
+cursor: pointer;
+transition: 1.5s;
+}
+
+
+h2:hover{
+    color: black;
+    transition: 1.5s;
+}
+
+
+
+h3{
+    position: absolute;
+    color: white;
+    font-family: 'Roboto Serif', serif;
+    font-size: 25px;
+    top: 350px;
+    left: 510px;
+color: rgba(0, 0, 0, 0.815);
+cursor: pointer;
+transition: 1.5s;
+}
+
+
+h3:hover{
+    color: black;
+    transition: 1.5s;
+}
+
+
+h4{
+    position: absolute;
+    color: white;
+    font-family: 'Roboto Serif', serif;
+    font-size: 25px;
+    top: 350px;
+    left: 950px;
+color: rgba(0, 0, 0, 0.815);
+cursor: pointer;
+transition: 1.5s;
+}
+
+h4:hover{
+    color: black;
+    transition: 1.5s;
+}

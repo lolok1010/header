@@ -1,0 +1,89 @@
+header nav {
+    display: flex;
+    justify-content: space-between;
+    font-size:16px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-right:90px;
+    align-items: center;
+}
+
+header{
+    margin-top: 20px;
+}
+
+
+ul{
+    top: 0px;
+    display: flex;
+    gap: 70px;
+    position: relative;
+}
+
+li{
+    list-style-type: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+
+a:hover{
+    color: rgba(252, 165, 35, 0.774);
+    transition: 0.5s;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.ul1{
+    top: 0px;
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+}
+
+
+i{
+    font-size: 25px;
+}
+
+body{
+    background-image: url(https://static.wixstatic.com/media/84770f_55e52c1ac81f450fadd6509cbc317d0b~mv2.jpg/v1/fill/w_1349,h_951,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_55e52c1ac81f450fadd6509cbc317d0b~mv2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+h1{
+    position: absolute;
+    color: white;
+    font-size:60px;
+    left: 190px;
+    top: 200px;
+}
+
+
+h3{
+    position: absolute;
+    color: white;
+    font-size:25px;
+    top: 320px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 6px;
+    left: 200px;
+    
+}
+
+p{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 150px;
+    margin-top: 800px;
+    margin-bottom: 30px;
+}
+
