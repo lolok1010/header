@@ -1,0 +1,151 @@
+header nav {
+    display: flex;
+    justify-content: space-between;
+    font-size:16px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-right:90px;
+    align-items: center;
+}
+
+header{
+    margin-top: 20px;
+}
+
+
+ul{
+    top: 0px;
+    display: flex;
+    gap: 70px;
+    position: relative;
+}
+
+li{
+    list-style-type: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+
+a:hover{
+    color: rgba(252, 165, 35, 0.774);
+    transition: 0.5s;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.ul1{
+    top: 0px;
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+}
+
+
+i{
+    font-size: 25px;
+}
+
+body{
+    background-color: black;
+}
+
+
+
+
+h1{
+    font-family: 'Roboto Serif', serif;
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 150px;
+    left: 200px;
+}
+
+
+img{
+  position: absolute;
+    width: 250px;
+    height: 400px;
+    left: 900px;
+    top:200px ;
+}
+
+
+p{
+    position: absolute;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    left: 200px;
+    top: 250px;
+}
+
+
+.p2{
+    position: absolute;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    top: 400px; 
+    left: 200px;
+ 
+}
+
+ h2{
+margin-top: 650px;
+  margin-left: 190px;
+    font-size: 65px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 3px;
+} 
+
+.p3{
+
+    margin-right: 100px;
+    margin-top: 680px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.p4{
+    margin-right: 100px;
+    margin-top: 880px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}   
+
+
+.img1{
+    margin-top:600px;
+    width: 146px;
+    height: 74px;
+   
+}
+
+.img2{
+    margin-top:600px;
+    width: 146px;
+    height: 74px;
+    margin-left:140px;
+}
+
+
+.img3{
+    margin-top:620px;
+    width: 119px;
+    height: 46px;
+    margin-left:280px;
+}
+
+.img4{
+    margin-top:720px;
+    width: 119px;
+    height: 46px;
+    margin-left:280px;
+    margin-right: 100px;
+}
+
